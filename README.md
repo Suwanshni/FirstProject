@@ -12,7 +12,7 @@ This is juat a demo. So don't take it seriously.
 
 ---
 
-If you waant to know more about the above languages : [Click Here](https://www.wikipedia.org/)
+If you want to know more about the above languages : [Click Here](https://www.wikipedia.org/)
 
 ---
 
